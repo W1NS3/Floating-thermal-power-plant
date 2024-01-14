@@ -13,3 +13,10 @@ Screenshots of 3D model:
 <img src="images/1.jpg" width="800" height="700" />
 <img src="images/2.jpg" width="800" height="700" />
 <img src="images/3.jpg" width="800" height="700" />
+
+## Script
+
+This script can be used to calculate energy processing efficiency
+
+Screenshots of script:
+
