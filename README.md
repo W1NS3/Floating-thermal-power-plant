@@ -28,8 +28,7 @@ In the future i want to analyze more negative factors and upgrade my script!
 ## Installation of script
 
 ```
-git clone https://W1NS3/Floating-thermal-power-plant
-cd floating-thermal-power-plant
+git clone https://W1NS3/Floating-thermal-power-plant.git
+cd src
 python -m pip install -U matplotlib
-
 ```
