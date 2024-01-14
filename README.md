@@ -1,6 +1,6 @@
-Authors: Korabelnikov Danila Alekseevich, Syhov Ivan Sergeevich \n
-Scientific director: Epifantsew Sergei Vladimirovich
-Consultant: Gertsovsky Georgy Alexandrovich
+ - Authors: Korabelnikov Danila Alekseevich, Syhov Ivan Sergeevich
+ - Scientific director: Epifantsew Sergei Vladimirovich
+ - Consultant: Gertsovsky Georgy Alexandrovich
 
 ## About this project
 
