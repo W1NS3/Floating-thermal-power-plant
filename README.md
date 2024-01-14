@@ -22,3 +22,14 @@ Screenshots of script:
 
 <img src="images/4.jpg">
 <img src="images/5.jpg">
+
+In the future i want to analyze more negative factors and upgrade my script!
+
+## Installation of script
+
+```
+git clone https://W1NS3/Floating-thermal-power-plant
+cd floating-thermal-power-plant
+python -m pip install -U matplotlib
+
+```
