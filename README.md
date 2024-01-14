@@ -10,6 +10,6 @@ This project is a simulated 3D model of a floating thermal power plant and a scr
 
 Screenshots of 3D model:
 
-<img src="images/1.jpg" width="200" height="200" />
-<img src="images/2.jpg" width="200" height="200" />
-<img src="images/3.jpg" width="200" height="200" />
+<img src="images/1.jpg" width="400" height="400" />
+<img src="images/2.jpg" width="400" height="400" />
+<img src="images/3.jpg" width="400" height="400" />
