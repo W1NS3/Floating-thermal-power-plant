@@ -20,3 +20,5 @@ This script can be used to calculate energy processing efficiency
 
 Screenshots of script:
 
+<img src="images/4.jpg">
+<img src="images/5.jpg">
