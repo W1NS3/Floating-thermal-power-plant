@@ -1,4 +1,4 @@
-Authors: Korabelnikov Danila Alekseevich, Syhov Ivan Sergeevich
+Authors: Korabelnikov Danila Alekseevich, Syhov Ivan Sergeevich \n
 Scientific director: Epifantsew Sergei Vladimirovich
 Consultant: Gertsovsky Georgy Alexandrovich
 
