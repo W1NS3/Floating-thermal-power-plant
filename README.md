@@ -9,3 +9,7 @@ This project is a simulated 3D model of a floating thermal power plant and a scr
 - [x] Analyze the market
 
 Screenshots of 3D model:
+
+![ ](images/1.jpg  "")
+![ ](images/2.jpg  "")
+![ ](images/3.jpg  "")
